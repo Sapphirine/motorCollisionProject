@@ -1,5 +1,10 @@
 Big data project
 
+Team Members:
+
+Borui Gao(bg2567)     Yufu Wang(yw2910)   Jiajun Zhang(jz2793)
+
+
 Part 1: Statistics Results From Hive Processing
 
 	● Please refer file Part 1.
