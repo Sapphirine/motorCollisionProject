@@ -17,6 +17,7 @@ Part 2: K-mean Clustering for locations of high posibility of accidents
 	● Go to NYC Open Data to download dataset exported as .csv , https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95, and put it under this project folder.
 
 2. Run command
+
 			python dump2mysql.py
 			
 			python run.py
