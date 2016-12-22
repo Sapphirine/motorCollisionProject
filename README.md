@@ -1,9 +1,12 @@
 Big data project
 
+Research on Motor Collisions in NYC
+
 Team Members:
 
 Borui Gao(bg2567)     Yufu Wang(yw2910)   Jiajun Zhang(jz2793)
 
+Video link: https://youtu.be/SWS3jXV6XVg
 
 Part 1: Statistics Results From Hive Processing
 
